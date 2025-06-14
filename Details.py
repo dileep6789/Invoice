@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 
-st.title("Title")
+st.title("Invoice - Generator")
 st.header("Input Details")
 
 # Excel file in Downloads folder
