@@ -3,4 +3,3 @@ streamlit
 pandas
 openpyxl
 num2words
-os
